@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/LiveSearchFilter/static/css/main.9ebbed5f.chunk.css",
-    "main.js": "/LiveSearchFilter/static/js/main.f97b61eb.chunk.js",
-    "main.js.map": "/LiveSearchFilter/static/js/main.f97b61eb.chunk.js.map",
+    "main.js": "/LiveSearchFilter/static/js/main.a5771c52.chunk.js",
+    "main.js.map": "/LiveSearchFilter/static/js/main.a5771c52.chunk.js.map",
     "runtime-main.js": "/LiveSearchFilter/static/js/runtime-main.f610fc66.js",
     "runtime-main.js.map": "/LiveSearchFilter/static/js/runtime-main.f610fc66.js.map",
-    "static/js/2.607c9b08.chunk.js": "/LiveSearchFilter/static/js/2.607c9b08.chunk.js",
-    "static/js/2.607c9b08.chunk.js.map": "/LiveSearchFilter/static/js/2.607c9b08.chunk.js.map",
+    "static/js/2.f66c6f49.chunk.js": "/LiveSearchFilter/static/js/2.f66c6f49.chunk.js",
+    "static/js/2.f66c6f49.chunk.js.map": "/LiveSearchFilter/static/js/2.f66c6f49.chunk.js.map",
     "index.html": "/LiveSearchFilter/index.html",
     "static/css/main.9ebbed5f.chunk.css.map": "/LiveSearchFilter/static/css/main.9ebbed5f.chunk.css.map",
-    "static/js/2.607c9b08.chunk.js.LICENSE.txt": "/LiveSearchFilter/static/js/2.607c9b08.chunk.js.LICENSE.txt"
+    "static/js/2.f66c6f49.chunk.js.LICENSE.txt": "/LiveSearchFilter/static/js/2.f66c6f49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f610fc66.js",
-    "static/js/2.607c9b08.chunk.js",
+    "static/js/2.f66c6f49.chunk.js",
     "static/css/main.9ebbed5f.chunk.css",
-    "static/js/main.f97b61eb.chunk.js"
+    "static/js/main.a5771c52.chunk.js"
   ]
 }
